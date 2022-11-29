@@ -22,4 +22,8 @@ Final project slide: https://drive.google.com/file/d/1AloFF2Pjzs52oIjTo3DWleYgTJ
 
 ---
 
-<img width="655" alt="螢幕擷取畫面 2022-11-28 223725" src="https://user-images.githubusercontent.com/13568457/204386754-d0dfda67-fa3b-46a8-8bc7-b38a15522bff.png">
+<img width="925" alt="截圖 2022-11-29 下午3 52 04" src="https://user-images.githubusercontent.com/13568457/204562220-36a89071-ad0c-4c89-8273-2197133d63d0.png">
+
+
+
+
